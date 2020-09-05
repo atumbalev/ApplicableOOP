@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="308.0" prefWidth="296.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hilbertCurve.HilbertSceneController">
+   <children>
+      <BorderPane prefHeight="319.0" prefWidth="423.0">
+         <bottom>
+            <HBox alignment="CENTER" prefHeight="31.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+               <children>
+                  <Button fx:id="btnEnter" mnemonicParsing="false" onAction="#btnEnterOnAction" text="Enter order">
+                     <font>
+                        <Font name="System Bold" size="12.0" />
+                     </font>
+                  </Button>
+                  <TextField fx:id="txtEnterOrder" alignment="CENTER_RIGHT" prefHeight="25.0" prefWidth="40.0" promptText="int value" text="0">
+                     <font>
+                        <Font name="System Bold" size="12.0" />
+                     </font>
+                  </TextField>
+               </children>
+            </HBox>
+         </bottom>
+         <center>
+            <Pane fx:id="drwPane" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+   </children>
+</AnchorPane>

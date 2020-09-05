@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="170.0" prefWidth="396.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="numberconvertor.FXMLDocumentController">
+   <children>
+      <GridPane hgap="8.0" layoutX="-1.0" layoutY="-1.0" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="147.0" prefWidth="368.0" vgap="8.0" AnchorPane.bottomAnchor="9.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="14.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="179.0" minWidth="10.0" prefWidth="106.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="254.0" minWidth="10.0" prefWidth="254.0" />
+        </columnConstraints>
+        <rowConstraints>
+            <RowConstraints maxHeight="33.0" minHeight="10.0" prefHeight="10.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="66.0" minHeight="10.0" percentHeight="25.0" prefHeight="66.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" percentHeight="25.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" percentHeight="25.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Button fx:id="btnDecimal" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#btnDecimalOnAction" text="Decimal" GridPane.rowIndex="1">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Button>
+            <Button fx:id="btnHex" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#btnHexOnAction" text="Hex" GridPane.rowIndex="2">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Button>
+            <Button fx:id="btnBinary" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#btnBinaryOnAction" text="Binary" GridPane.rowIndex="3">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Button>
+            <TextField fx:id="txtHex" alignment="CENTER_RIGHT" text="0" GridPane.columnIndex="1" GridPane.rowIndex="2">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </TextField>
+            <TextField fx:id="txtDeciimal" alignment="CENTER_RIGHT" text="0" GridPane.columnIndex="1" GridPane.rowIndex="1">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </TextField>
+            <TextField fx:id="txtBinary" alignment="CENTER_RIGHT" text="0" GridPane.columnIndex="1" GridPane.rowIndex="3">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </TextField>
+            <MenuBar prefHeight="25.0" prefWidth="287.0" GridPane.columnSpan="2">
+              <menus>
+                <Menu text="_Convert">
+                  <items>
+                    <MenuItem fx:id="mniDecimal" mnemonicParsing="false" onAction="#mniDecimalOnAction" text="Decimal" />
+                        <MenuItem fx:id="mniHex" mnemonicParsing="false" onAction="#mniHexOnAction" text="Hex" />
+                        <MenuItem fx:id="mniBinary" mnemonicParsing="false" onAction="#mniBinaryOnAction" text="Binary" />
+                  </items>
+                </Menu>
+                <Menu text="_Quit">
+                  <items>
+                    <MenuItem fx:id="mniQuit" mnemonicParsing="false" onAction="#mniQuitOnAction" text="Quit" />
+                  </items>
+                </Menu>
+              </menus>
+            </MenuBar>
+         </children>
+      </GridPane>
+   </children>
+</AnchorPane>

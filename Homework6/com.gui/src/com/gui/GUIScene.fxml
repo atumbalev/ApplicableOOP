@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+
+
+<AnchorPane prefHeight="246.0" prefWidth="427.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.gui.GUISceneController">
+   <children>
+      <GridPane layoutX="-1.0" layoutY="10.0" prefHeight="236.0" prefWidth="427.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints maxHeight="135.0" minHeight="10.0" prefHeight="63.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="252.0" minHeight="0.0" prefHeight="61.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="298.0" minHeight="10.0" prefHeight="53.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="298.0" minHeight="10.0" prefHeight="62.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <TextField fx:id="txbSeed" text="Enter the seed">
+               <GridPane.margin>
+                  <Insets left="50.0" right="50.0" />
+               </GridPane.margin>
+            </TextField>
+            <TextField fx:id="txbSize" text="Enter the size" GridPane.rowIndex="1">
+               <GridPane.margin>
+                  <Insets left="50.0" right="50.0" />
+               </GridPane.margin>
+            </TextField>
+            <Button fx:id="btnQuit" alignment="CENTER" mnemonicParsing="false" onAction="#btnQuitOnAction" prefHeight="26.0" prefWidth="132.0" text="Quit" GridPane.halignment="CENTER" GridPane.rowIndex="3" GridPane.valignment="CENTER" />
+            <Button fx:id="btnRndSubset" mnemonicParsing="false" onAction="#btnRndSubsetOnAction" text="Generate Random Subset A - Z" GridPane.halignment="RIGHT" GridPane.rowIndex="2">
+               <GridPane.margin>
+                  <Insets right="10.0" />
+               </GridPane.margin>
+            </Button>
+            <Button fx:id="btnRnd" mnemonicParsing="false" onAction="#btnRndOnAction" text="Generate Random A - Z" GridPane.rowIndex="2">
+               <GridPane.margin>
+                  <Insets left="10.0" />
+               </GridPane.margin>
+            </Button>
+         </children>
+      </GridPane>
+   </children>
+</AnchorPane>

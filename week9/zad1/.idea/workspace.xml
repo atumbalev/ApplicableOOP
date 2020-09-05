@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9aac98c7-3589-4532-973d-092020a93871" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aod4LT2Fo4IWVrGLQFJbQUjIpN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/javafx-sdk-11.0.2/lib" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Petya\Desktop\DrawingBoard2\model\src\geometry" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunDrawing" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="MAIN_CLASS_NAME" value="view.MainSceneApp" />
+      <module name="gui" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/javafx-sdk-11.0.2/lib --add-modules=javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9aac98c7-3589-4532-973d-092020a93871" name="Default Changelist" comment="" />
+      <created>1587405687622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587405687622</updated>
+      <workItem from="1587405689662" duration="1510000" />
+      <workItem from="1587407293632" duration="5000" />
+      <workItem from="1587407657074" duration="632000" />
+      <workItem from="1587734309502" duration="366000" />
+      <workItem from="1587734693160" duration="4090000" />
+      <workItem from="1587810803044" duration="4893000" />
+      <workItem from="1587823338076" duration="3597000" />
+      <workItem from="1587840331023" duration="1782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="476" y="130" width="1024" height="845" key="#Project_Structure" timestamp="1587811232958">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="476" y="130" width="1024" height="845" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1587811232958" />
+    <state x="564" y="287" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587842063831">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="313" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1798.879@0.0.1798.879" timestamp="1587407028330" />
+    <state x="515" y="257" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587735158894" />
+    <state x="564" y="287" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1587842063831" />
+    <state x="889" y="337" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1587833154591">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="889" y="337" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1587833154591" />
+    <state x="506" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1587736763983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="157" key="#com.intellij.ide.util.MemberChooser/0.0.1798.879@0.0.1798.879" timestamp="1587406900770" />
+    <state x="506" y="202" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587736763983" />
+    <state x="673" y="311" width="525" height="416" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587841972121">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="237" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1798.879@0.0.1798.879" timestamp="1587407027192" />
+    <state x="673" y="311" width="525" height="416" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1587841972121" />
+    <state x="881" y="265" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1587736574226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="881" y="265" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587736574226" />
+    <state x="589" y="205" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1587406043630">
+      <screen x="0" y="0" width="1798" height="879" />
+    </state>
+    <state x="589" y="205" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1798.879@0.0.1798.879" timestamp="1587406043630" />
+    <state x="1033" y="379" width="744" height="484" key="FileChooserDialogImpl" timestamp="1587841419299">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="786" y="273" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587734712197" />
+    <state x="1033" y="379" width="744" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1587841419299" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1587842085821">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1616" height="210" key="GridCell.Tab.0.bottom/0.0.1798.879@0.0.1798.879" timestamp="1587407202336" />
+    <state width="1330" height="67" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587738934173" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1587842085821" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1587842085821">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1616" height="210" key="GridCell.Tab.0.center/0.0.1798.879@0.0.1798.879" timestamp="1587407202335" />
+    <state width="1330" height="67" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587738934173" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1587842085821" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1587842085821">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1616" height="210" key="GridCell.Tab.0.left/0.0.1798.879@0.0.1798.879" timestamp="1587407202334" />
+    <state width="1330" height="67" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587738934172" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1587842085821" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1587842085821">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1616" height="210" key="GridCell.Tab.0.right/0.0.1798.879@0.0.1798.879" timestamp="1587407202335" />
+    <state width="1330" height="67" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587738934173" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1587842085821" />
+    <state x="576" y="298" width="824" height="508" key="IDE.errors.dialog" timestamp="1587842078887">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="576" y="298" width="824" height="508" key="IDE.errors.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1587842078887" />
+    <state x="416" y="57" width="1024" height="845" key="SettingsEditor" timestamp="1587842160044">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="339" y="25" key="SettingsEditor/0.0.1798.879@0.0.1798.879" timestamp="1587406101311" />
+    <state x="362" y="30" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587736105861" />
+    <state x="416" y="57" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1587842160044" />
+    <state x="567" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1587407656262">
+      <screen x="0" y="0" width="1798" height="879" />
+    </state>
+    <state x="567" y="275" key="com.intellij.ide.util.TipDialog/0.0.1798.879@0.0.1798.879" timestamp="1587407656262" />
+    <state x="436" y="143" key="new project wizard" timestamp="1587735403173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="242" y="74" key="new project wizard/0.0.1798.879@0.0.1798.879" timestamp="1587406036806" />
+    <state x="436" y="143" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587735403173" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1587832539428">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1587832539428" />
+  </component>
+</project>

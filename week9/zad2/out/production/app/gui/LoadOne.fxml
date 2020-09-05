@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="226.0" prefWidth="358.0" stylesheets="@guiStyle.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.LoadOneController">
+   <children>
+      <Label fx:id="lblLoadedOne" text="Loaded One" />
+      <Button fx:id="btnClickOne" mnemonicParsing="false" onAction="#btnClickOneOnAction" text="Click Me" />
+   </children>
+</VBox>

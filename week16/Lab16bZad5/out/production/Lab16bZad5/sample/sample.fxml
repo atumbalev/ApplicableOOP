@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="436.0" prefWidth="796.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <MenuBar fx:id="mnuMainBar" layoutY="2.0" prefHeight="25.0" prefWidth="796.0">
+        <menus>
+          <Menu fx:id="mnuApplication" mnemonicParsing="false" text="Application">
+            <items>
+                  <MenuItem fx:id="mniLoadEmployees" mnemonicParsing="false" onAction="#onMniLoadEmployeesAction" text="Load Employees" />
+              <MenuItem fx:id="mniClose" mnemonicParsing="false" onAction="#onMniCloseAction" text="Close" />
+            </items>
+          </Menu>
+          <Menu fx:id="mnuView" mnemonicParsing="false" text="View">
+            <items>
+              <MenuItem fx:id="mniSortBySalaryAndBirthday" mnemonicParsing="false" onAction="#onMniSortBySalaryAndBirthdayAction" text="Sort by salary and birthday" />
+                  <MenuItem fx:id="mniSortByFirstAndLast" mnemonicParsing="false" onAction="#onMniSortByFirstAndLastAction" text="Sort by first and last(desc)" />
+            </items>
+          </Menu>
+          <Menu fx:id="mnuHelp" mnemonicParsing="false" text="Help">
+            <items>
+              <MenuItem fx:id="mniAbout" mnemonicParsing="false" onAction="#onMniAboutAction" text="About" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <Label fx:id="lblEmployeeDetails" alignment="CENTER" layoutX="324.0" layoutY="45.0" text="EMPLOYEE DETAILS">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <TableView fx:id="tblEmployeeDetails" editable="true" layoutX="4.0" layoutY="76.0" prefHeight="354.0" prefWidth="788.0">
+        <columns>
+          <TableColumn fx:id="colId" editable="false" prefWidth="75.0" text="ID" />
+          <TableColumn fx:id="colFirstName" editable="false" prefWidth="148.0" text="FIRST NAME" />
+            <TableColumn fx:id="colLastName" editable="false" prefWidth="141.0" text="LAST NAME" />
+            <TableColumn fx:id="colEmail" editable="false" prefWidth="120.0" text="EMAIL" />
+            <TableColumn fx:id="colPhone" editable="false" prefWidth="104.0" text="PHONE" />
+            <TableColumn fx:id="colSalary" prefWidth="85.0" text="SALARY" />
+            <TableColumn fx:id="colBirthday" editable="false" prefWidth="114.0" text="BIRTHDAY" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>

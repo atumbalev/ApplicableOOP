@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<GridPane alignment="CENTER" hgap="8.0" prefHeight="185.0" prefWidth="303.0" vgap="8.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="depositcalculator.FXMLDocumentController">
+  <columnConstraints>
+    <ColumnConstraints halignment="RIGHT" hgrow="SOMETIMES" minWidth="10.0" />
+    <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+  </columnConstraints>
+  <rowConstraints>
+    <RowConstraints maxHeight="1.7976931348623157E308" valignment="CENTER" vgrow="NEVER" />
+      <RowConstraints maxHeight="1.7976931348623157E308" valignment="CENTER" vgrow="NEVER" />
+      <RowConstraints maxHeight="1.7976931348623157E308" prefHeight="30.0" valignment="CENTER" vgrow="NEVER" />
+    <RowConstraints maxHeight="1.7976931348623157E308" valignment="CENTER" vgrow="NEVER" />
+      <RowConstraints maxHeight="1.7976931348623157E308" valignment="CENTER" vgrow="NEVER" />
+  </rowConstraints>
+   <children>
+      <Label fx:id="lblAmount" text="Principal amount" GridPane.halignment="LEFT">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Label>
+      <Label fx:id="lblInterestRate" text="Interest rate 2.00%" GridPane.halignment="LEFT" GridPane.rowIndex="1">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Label>
+      <Label fx:id="lblTotal" text="Deposit" GridPane.halignment="LEFT" GridPane.rowIndex="3">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Label>
+      <TextField fx:id="txtPrincipalAmount" alignment="BOTTOM_RIGHT" promptText="Enter amount" GridPane.columnIndex="1" GridPane.halignment="LEFT">
+         <GridPane.margin>
+            <Insets />
+         </GridPane.margin>
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></TextField>
+      <TextField fx:id="txtTotalDeposit" alignment="BOTTOM_RIGHT" editable="false" GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="3">
+         <GridPane.margin>
+            <Insets />
+         </GridPane.margin>
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></TextField>
+      <Button fx:id="btnCalculate" mnemonicParsing="false" onAction="#btnCalculateClicked" prefHeight="25.0" prefWidth="139.0" text="Calculate Deposit" visible="false" GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="4">
+         <GridPane.margin>
+            <Insets />
+         </GridPane.margin>
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Button>
+      <Button fx:id="btnQuit" mnemonicParsing="false" onAction="#btnQquitClicked" prefHeight="25.0" prefWidth="72.0" text="Quit" GridPane.halignment="RIGHT" GridPane.rowIndex="4">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Button>
+      <Label text="Number of Years" GridPane.halignment="LEFT" GridPane.rowIndex="2">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <TextField fx:id="txtNumberYears" alignment="BOTTOM_RIGHT" promptText="Enter years" GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="2">
+         <GridPane.margin>
+            <Insets />
+         </GridPane.margin>
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </TextField>
+      <Slider fx:id="sldInterestRate" value="20.0" GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="1" />
+   </children>
+   <padding>
+      <Insets bottom="14.0" left="14.0" right="14.0" top="14.0" />
+   </padding>
+</GridPane>

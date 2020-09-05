@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="f71847.data:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/f71847_data_jar</output-path>
+    <root id="archive" name="f71847.data.jar">
+      <element id="module-output" name="f71847.data" />
+    </root>
+  </artifact>
+</component>

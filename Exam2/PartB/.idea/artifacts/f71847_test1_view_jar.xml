@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="f71847.test1.view:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/f71847_test1_view_jar</output-path>
+    <root id="archive" name="f71847.test1.view.jar">
+      <element id="module-output" name="f71847.test1.view" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../PartA/out/artifacts/f71847_test1_game_jar/f71847.test1.game.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

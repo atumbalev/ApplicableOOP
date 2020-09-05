@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane fx:id="bpContent" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.MainMenuSceneController">
+   <top>
+      <MenuBar BorderPane.alignment="CENTER">
+        <menus>
+          <Menu fx:id="mnuFile" mnemonicParsing="false" text="File">
+            <items>
+              <MenuItem fx:id="mniClose" mnemonicParsing="false" onAction="#mniCloseOnAction" text="Close" />
+            </items>
+          </Menu>
+          <Menu fx:id="mnuOperations" mnemonicParsing="false" text="Operations">
+            <items>
+              <MenuItem fx:id="mniSceneOne" mnemonicParsing="false" onAction="#mniSceneOneOnAction" text="Load Scene One" />
+                  <MenuItem fx:id="mniSceneTwo" mnemonicParsing="false" onAction="#mniSceneTwoOnAction" text="Load Scene Two" />
+            </items>
+          </Menu>
+          <Menu fx:id="mnuHelp" mnemonicParsing="false" text="Help">
+            <items>
+              <MenuItem fx:id="mniAbout" mnemonicParsing="false" onAction="#mniAboutOnAction" text="About" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </top>
+</BorderPane>
