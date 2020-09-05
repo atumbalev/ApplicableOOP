@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlarmClock/com/com.iml" filepath="$PROJECT_DIR$/AlarmClock/com/com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SequenceSelectors/com.iterator/com.iterator.iml" filepath="$PROJECT_DIR$/SequenceSelectors/com.iterator/com.iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlarmClock/events/events.iml" filepath="$PROJECT_DIR$/AlarmClock/events/events.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tabulate/services/services.iml" filepath="$PROJECT_DIR$/Tabulate/services/services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SequenceSelectors/test/test.iml" filepath="$PROJECT_DIR$/SequenceSelectors/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/week11.iml" filepath="$PROJECT_DIR$/.idea/week11.iml" />
+    </modules>
+  </component>
+</project>

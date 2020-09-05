@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0d0de8c-6d5f-4040-b89c-e41725603139" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YM5SauZcLw8uemvaYBYe9YPYqh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/zad1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/zad1" />
+      <recent name="$PROJECT_DIR$/src/zad5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GeneReader">
+    <configuration name="GeneReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad4.GeneReader" />
+      <module name="week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemperatureConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad1.TemperatureConverter" />
+      <module name="week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GeneReader" />
+        <item itemvalue="Application.TemperatureConverter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0d0de8c-6d5f-4040-b89c-e41725603139" name="Default Changelist" comment="" />
+      <created>1582739623484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582739623484</updated>
+      <workItem from="1582739624883" duration="78000" />
+      <workItem from="1582739708169" duration="1917000" />
+      <workItem from="1582960596948" duration="12000" />
+      <workItem from="1583579870127" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1582741796400">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582741796400" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1582741796400">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582741796400" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1582741796399">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582741796399" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1582741796400">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582741796400" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1582740464034">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582740464034" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1582740464034">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582740464034" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1582740464034">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582740464034" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1582740464034">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582740464034" />
+  </component>
+</project>

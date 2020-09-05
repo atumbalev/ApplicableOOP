@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da9275a9-f2d5-4201-9bcc-14e88b05f291" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YTJV7qyoflhpoa3IIpMJqdwpau" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad1.RectangleTest" />
+      <module name="week2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RectangleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da9275a9-f2d5-4201-9bcc-14e88b05f291" name="Default Changelist" comment="" />
+      <created>1582960671647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582960671647</updated>
+      <workItem from="1582960673542" duration="5013000" />
+      <workItem from="1583580548415" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="801" y="271" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1582961897202">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="271" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1582961897202" />
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1582966777668">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1582966777668" />
+    <state x="660" y="448" width="646" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582966775208">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="660" y="448" width="646" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1853.1053@67.27.1853.1053" timestamp="1582966775208" />
+    <state x="302" y="153" width="1372" height="798" key="new project wizard" timestamp="1582965238183">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="153" width="1372" height="798" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1582965238183" />
+    <state x="738" y="181" width="500" height="743" key="refactoring.ChangeSignatureDialog" timestamp="1582961839967">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="738" y="181" width="500" height="743" key="refactoring.ChangeSignatureDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582961839967" />
+  </component>
+</project>

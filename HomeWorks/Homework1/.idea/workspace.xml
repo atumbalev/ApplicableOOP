@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3ff015f-a30d-4a21-8838-d792136a0e60" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YnpajFzrmj5tvMwM0r9bW60ZxH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/openjfx-13.0.2_linux-x64_bin-sdk/javafx-sdk-13.0.2/lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3ff015f-a30d-4a21-8838-d792136a0e60" name="Default Changelist" comment="" />
+      <created>1583588277655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583588277655</updated>
+      <workItem from="1583588278780" duration="2693000" />
+      <workItem from="1583593997495" duration="51000" />
+      <workItem from="1583594057180" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="110" y="215" width="800" height="677" key="#Project_Structure" timestamp="1583596197990">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="110" y="215" width="800" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1583596197990" />
+    <state x="362" y="311" width="735" height="484" key="FileChooserDialogImpl" timestamp="1583592898312">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="362" y="311" width="735" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1583592898312" />
+    <state x="67" y="188" width="1024" height="845" key="SettingsEditor" timestamp="1583592903832">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="67" y="188" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583592903832" />
+    <state x="251" y="449" width="646" height="208" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583592035569">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="251" y="449" width="646" height="208" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1853.1053@67.27.1853.1053" timestamp="1583592035569" />
+    <state x="67" y="154" width="1372" height="798" key="new project wizard" timestamp="1583592959835">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="67" y="154" width="1372" height="798" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1583592959835" />
+    <state x="183" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1583594023389">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="183" y="259" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1583594023389" />
+  </component>
+</project>
